@@ -19,6 +19,10 @@ run.py文件中修改全局变量VOCAB_FIL指定词典文件路径，修改DATAS
 
     
 # 推理
+
+训练模型文件
+>https://drive.google.com/drive/folders/1PoPG8sTw9vDVtReO3UpVYIIor5cY07qQ?usp=sharing
+
 执行指令：
 ```bash
 >> python run.py inference

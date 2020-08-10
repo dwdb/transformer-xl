@@ -24,7 +24,7 @@ run.py文件中修改全局变量VOCAB_FIL指定词典文件路径，修改DATAS
 >> python run.py inference
 ```
 
-exmaple:
+示例:
 ```shell
 seed text >>> 人间三月天，
 >> 人间三月天，年年称处称觞。殷借长江南极，後年风露细。看看朱颜青鬓，便似文章公子。平生此子胜而今，百载还同此。
